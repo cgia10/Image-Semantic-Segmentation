@@ -1,6 +1,5 @@
 Semantic segmentation model written with PyTorch. Model architecture:
 
-![illustration](./Results/Model.png)
 <img src="Results/Model.png"/>
 
 The model achieved a mean IoU score of 68.6% on the test set. Some results are shown below:
